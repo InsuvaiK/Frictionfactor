@@ -4,7 +4,6 @@ import math
 import pandas as pd
 import streamlit as st
 
-"""
 
 
 with st.echo(code_location='below'):
